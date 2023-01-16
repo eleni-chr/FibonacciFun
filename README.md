@@ -1,6 +1,8 @@
 # FibonacciFun
 Various functions relating to the Fibonacci series
 
+Functions written by Eleni Christoforidou in MATLAB R2022b.
+
 ## Functions
 
 1. *fibonacci*: The function returns the n-th element of the Fibonacci sequence, as specified by the input.
